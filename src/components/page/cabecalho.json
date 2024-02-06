@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_page_cabecalhos",
+  "info": {
+    "displayName": "Header",
+    "icon": "star",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "countdown": {
+      "type": "boolean"
+    },
+    "fixed": {
+      "type": "boolean"
+    }
+  }
+}

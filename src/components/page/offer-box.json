@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_page_offer_boxes",
+  "info": {
+    "displayName": "Offer Box",
+    "icon": "star"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "sub_title": {
+      "type": "string"
+    },
+    "placeholder": {
+      "type": "string"
+    }
+  }
+}

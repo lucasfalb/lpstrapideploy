@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_page_hero_section_w_multisteps",
+  "info": {
+    "displayName": "HeroSection w/ Multistep",
+    "icon": "star",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "sub_title": {
+      "type": "string"
+    },
+    "image_highlight": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    }
+  }
+}

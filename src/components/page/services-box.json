@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_page_services_boxes",
+  "info": {
+    "displayName": "Services Box",
+    "icon": "star"
+  },
+  "options": {},
+  "attributes": {
+    "service_card": {
+      "displayName": "ServiceCard",
+      "type": "component",
+      "repeatable": true,
+      "component": "page.service-card"
+    }
+  }
+}

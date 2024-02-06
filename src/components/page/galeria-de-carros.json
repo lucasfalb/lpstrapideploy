@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_page_galeria_de_carros",
+  "info": {
+    "displayName": "Cars Gallery",
+    "icon": "star",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "segment_filter": {
+      "type": "boolean"
+    },
+    "show_modal": {
+      "type": "boolean"
+    },
+    "background": {
+      "type": "boolean"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "kind": "singleType",
+  "collectionName": "pages",
+  "info": {
+    "singularName": "page",
+    "pluralName": "pages",
+    "displayName": "Page",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "page_config_v1": {
+      "type": "dynamiczone",
+      "components": [
+        "page.cabecalho",
+        "page.formulario",
+        "page.hero-section-w-multistep",
+        "page.countdown",
+        "page.customer-testemonial",
+        "page.exit-intent-popup",
+        "page.galeria-de-carros",
+        "page.hero-section",
+        "page.multistep",
+        "page.offer-box",
+        "page.rodape",
+        "page.service-box",
+        "page.services-box",
+        "page.trustpilot"
+      ]
+    }
+  }
+}
